@@ -1,0 +1,2 @@
+html syntax 
+index is a standard name i.e it is conventional. such that, it is accepted globally.
